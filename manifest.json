@@ -9,12 +9,12 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "tugraciamealcanzo.png",
+      "src": "https://i.postimg.cc/bNFnz9dT/tugraciamealcanzo-cd.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "tugraciamealcanzo.png",
+      "src": "https://i.postimg.cc/bNFnz9dT/tugraciamealcanzo-cd.png",
       "sizes": "512x512",
       "type": "image/png"
     }
